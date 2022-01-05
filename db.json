@@ -1,9 +1,9 @@
 {
   "sites": [
       {
-          "site_id": 1,
+          "id": 1,
           "sku": "1776",
-          "name": "Freedome",
+          "title": "Freedome",
           "description": "A description",
           "long_description": "",
           "wholesale_price": "155.00",
@@ -22,9 +22,9 @@
           ]
       },
       {
-          "site_id": 2,
+          "id": 2,
           "sku": "1492",
-          "name": "Digestion",
+          "title": "Digestion",
           "description": "A description",
           "long_description": "",
           "wholesale_price": "155.00",
