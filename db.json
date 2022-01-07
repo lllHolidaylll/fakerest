@@ -43,6 +43,36 @@
           ]
       }
   ],
+"countries": [
+    {
+        "id":1,
+        "name": "Canada"
+    },
+    {
+        "id":2,
+        "name": "Mexico"
+    },
+    {
+        "id":3,
+        "name": "United States"
+    }
+], 
+"account_types":[
+    {
+        "id":1,
+        "name": "Checking"
+    },
+    {
+        "id": 2,
+        "name": "Savings"
+    }
+
+],
+
+
+
+
+
   "profile": {
     "name": "lllHolidaylll"
   }
